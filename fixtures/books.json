@@ -1,0 +1,56 @@
+[
+  {
+    "model": "books.book",
+    "pk": 1,
+    "fields": {
+      "name": "Война и мир",
+      "author": "Ф.Д. Достоевский",
+      "pub_date": "2018-02-27"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "name": "1984",
+      "author": "Джордж Оруэл",
+      "pub_date": "2016-12-06"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+      "name": "На западном фронте без перемен",
+      "author": "Э. М. Ремарк",
+      "pub_date": "2018-03-03"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 4,
+    "fields": {
+      "name": "Доктор Живаго",
+      "author": "Б. Пастерна",
+      "pub_date": "2018-03-03"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 5,
+    "fields": {
+      "name": "Анна Каренина",
+      "author": "Л. Н. Толстой",
+      "pub_date": "2018-03-02"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 6,
+    "fields": {
+      "name": "Евгений Онегин",
+      "author": "А. С. Пушкин",
+      "pub_date": "2018-03-01"
+    }
+  }
+]
